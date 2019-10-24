@@ -8,7 +8,7 @@ menu:
     categories: /categories
     tags: /tags
     about: /about
-    gallery: /gallery
+    # gallery: /gallery
 
 # favicon & logo
 # if the value of logo is false, the 'title' is optional.
